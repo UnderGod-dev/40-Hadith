@@ -11,7 +11,7 @@ body{
     justify-content: center;
     height: 100vh;
     text-align: center;
-    background: url(img/Mosque1.jpg) no-repeat center/ cover;
+    background: url(/Mosque1.jpg) no-repeat center/ cover;
 }
 .container{
     width: 500px;
